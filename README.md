@@ -34,7 +34,6 @@ Only selected, publishable source material is included online. The repository is
         ├── single_loop_droop.slx   # Direct voltage-source droop scheme
         ├── cascaded_droop_vi.slx   # Cascaded droop with virtual impedance
         ├── sing_loop_vsg.slx       # Direct VSG scheme
-        ├── LCL.m                   # LCL filter calculations
         └── parameters.m            # Main model parameters
 ```
 
