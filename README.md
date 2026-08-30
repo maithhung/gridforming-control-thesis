@@ -37,7 +37,7 @@ Only selected, publishable source material is included online. The repository is
         └── parameters.m            # Main model parameters
 ```
 
-The public source subset is intended to contain key files such as `single_loop_droop.slx`, `cascaded_droop_vi.slx`, `sing_loop_vsg.slx`, `LCL.m`, and the associated parameter files. Raw measurement data, generated Simulink/build artifacts, proprietary or hardware-specific interface files, and the complete deployment source are intentionally not part of the public release.
+The public source subset is intended to contain key files such as `single_loop_droop.slx`, `cascaded_droop_vi.slx`, `sing_loop_vsg.slx`, and the associated parameter files. Raw measurement data, generated Simulink/build artifacts, proprietary or hardware-specific interface files, and the complete deployment source are intentionally not part of the public release.
 
 ## Hardware Interface and Usage
 
